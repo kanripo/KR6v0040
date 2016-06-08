@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 05:58:17.843650
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:08
 #+TITLE: 佛說觀佛三昧海藏經本行品第八
 #+PROPERTY: CBETA_ID W03n0031c
 #+PROPERTY: ID KR6v0040
@@ -10,10 +10,9 @@
 #+PROPERTY: LASTPB <pb:KR6v0040_W_001-0422a> 
 #+PROPERTY: JUAN 1
 
-錄文三¶
+* 〔錄文三〕¶
 ¶
-
- 佛說觀佛三昧海藏經本行品第八¶
+佛說觀佛三昧海藏經本行品第八¶
 ¶
 
 佛如來頂上髮肉髻團圓踴起，猶如合拳。其上平偃，¶
